@@ -6,7 +6,7 @@ int amount,discount,dis;
 
 cout<<"Enter the total purchased amount : ";
 cin>>amount;
-cout<<"Enter the discount :";
+cout<<"Enter the discount percentage :";
 cin>>dis;
 
 discount=amount*dis/100;
