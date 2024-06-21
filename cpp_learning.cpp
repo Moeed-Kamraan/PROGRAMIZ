@@ -3,7 +3,6 @@ using namespace std;
 
 int main(){
 
-cout<<"Hi how are you"<<endl;
 int x,y;
 x=7; //here x=7 means place value 7 in x i,e = is assignment here and not an equal to operator
 y=3;
@@ -18,7 +17,7 @@ cout<<x<<endl;
 cout<<y<<endl;
 cout<<x/y;
 
-x=x+6;//x+=6;
+x=x+6;   //or x+=6;
 cout<<endl;
 x=x+1;//x+=1 or x++
 x=8;
