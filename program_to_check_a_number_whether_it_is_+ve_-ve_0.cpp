@@ -7,7 +7,7 @@ cout<<"Enter the number : ";
 cin>>a;
 if(a==0)
 
-    cout<<"The number "<<a <<" is zero ";
+    cout<<"The entered number  is zero ";
     else if (a<0)
     
     cout<< "The number "<<a << " is negative ";
